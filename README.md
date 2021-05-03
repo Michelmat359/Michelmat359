@@ -9,29 +9,28 @@
 - Computer Science Engineer (2014-2019)
 - Advanced degree in Computer Systems and Network Administrator.(2010-2012)
 
-
 # Professional Experience
-CIGIP (Research Centre on Production Management and Engineering) – Junior Research && DevOps (Feb 2021 – Present):
+CIGIP (Research Centre on Production Management and Engineering) – <b>Junior Research && DevOps</b> (Feb 2021 – Present):
 - Managing develop clusters of Kubernetes, Docker, CI/CD workflow and sysadmin.
 - Junior Research at HORIZON 2020 project - Industrial Data Services for Quality Control in Smart Manufacturing
 
-ESEMTIA - .Net Developer (Jun 2020 - Jan 2021):
+ESEMTIA - <b>.Net Developer</b> (Jun 2020 - Jan 2021):
 - .net and MYSQL developer
 
-Servinform - Senior Developer (Jun 2019 - April 2020):
+Servinform - <b>Senior Developer</b> (Jun 2019 - April 2020):
 - Work on 5 projects at the same time.
 - Control and manage projects with teams of up to 3 people.
 - Dealing directly with clients.
 
-CIGIP (Research Centre on Production Management and Engineering) – SysAdmin (Oct 2017 – May 2019):
+CIGIP (Research Centre on Production Management and Engineering) – <b>SysAdmin</b> (Oct 2017 – May 2019):
 - Management and responsible of the centre servers. (Nagios, apache, thingclients, vSphere, backups).
 
-CJAmics - Junior SysAdmin (Oct 2014 - Sep 2017):
+CJAmics - <b>Junior SysAdmin</b> (Oct 2014 - Sep 2017):
 - Manager Linux servers and network administration. 
 
-
 # Languages:
-- English (intermediate), Spanish (native)
+- English (intermediate) 
+- Spanish (native)
 
 # Social Networks:
 - [Twitter](http://www.twitter.com/Mmateo_UPV)
