@@ -7,7 +7,7 @@
 # Studies
 - Master’s Degree in Computer Engineering (2019-2021)
 - Computer Science Engineer (2014-2019)
-- Advanced degree in Computer Systems and Network Administrator.(2010-2012)
+- Advanced degree in Computer Systems and Network Administrator (2010-2012)
 
 # Professional Experience
 CIGIP (Research Centre on Production Management and Engineering) – <b>Junior Research && DevOps</b> (Feb 2021 – Present):
