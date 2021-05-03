@@ -33,6 +33,6 @@ CJAmics - Junior SysAdmin (Oct 2014 - Sep 2017):
 # Languages:
 - English (intermediate), Spanish (native)
 
-# Hobbies:
-- Archery 
-- Videogames
+# Social Networks:
+- [Twitter](http://www.twitter.com/michelmat35)
+- [Linkedin](https://www.linkedin.com/in/miguel-angel-mateo-casali-bb335a66)
