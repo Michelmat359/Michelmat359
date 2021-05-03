@@ -34,5 +34,5 @@ CJAmics - Junior SysAdmin (Oct 2014 - Sep 2017):
 - English (intermediate), Spanish (native)
 
 # Social Networks:
-- [Twitter](http://www.twitter.com/michelmat35)
+- [Twitter](http://www.twitter.com/Mmateo_UPV)
 - [Linkedin](https://www.linkedin.com/in/miguel-angel-mateo-casali-bb335a66)
