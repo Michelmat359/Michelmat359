@@ -1,7 +1,7 @@
 # Areas of Knowledge
 - Managing Kubernetes in Production since 2021.
 - Managing Docker in Production since 2019.
-- Web and App Developer since 2021
+- Web and App Developer since 2019
 - Sysadmin since 2013
 
 # Studies
