@@ -1,9 +1,3 @@
-Miguel Angel Mateo Casali
-
-email: michelmatcas[at]gmail[dot]com
-Critical thinking, leadership and problem solving.
-
-
 # Areas of Knowledge
 Managing Kubernetes in Production since 2021.
 Managing Docker in Production since 2019.
@@ -37,10 +31,8 @@ Manager Linux servers and network administration.
 
 
 # Languages:
-
 - English (intermediate), Spanish (native)
 
 # Hobbies:
-
 - Archery 
 - Videogames
