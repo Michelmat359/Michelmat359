@@ -5,10 +5,10 @@
 - 📫 How to reach me **mimaca359@gmail.com**
 
 # Areas of Knowledge
-- Managing Kubernetes in Production since 2021.
-- Managing Docker in Production since 2019.
-- Web and App Developer since 2019
-- Sysadmin since 2013
+- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="10" height="10"/> Managing Kubernetes in Production since 2021.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="10" height="10"/>Managing Docker in Production since 2019.
+- <img src="https://www.pngkit.com/png/detail/333-3332577_web-development-icon-png-clipart-website-development-web.pngWeb" alt="developer" width="10" height="10"/> and App Developer since 2019
+- <img src="https://i1.wp.com/thepracticalsysadmin.com/wp-content/uploads/2020/05/iconfinder_terminal_285695.png?resize=350%2C350&ssl=1" alt="sysadmin" width="10" height="10"/>Sysadmin since 2013
 
 # Studies
 - Master’s Degree in Computer Engineering (2019-2021)
