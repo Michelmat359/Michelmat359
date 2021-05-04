@@ -39,7 +39,7 @@ CJAmics - <b>Junior SysAdmin</b> (Oct 2014 - Sep 2017):
 - Spanish (native)
 
 # Social Networks:
-- <p align="left"> <a href="https://twitter.com/michelmat359" target="blank"><img src="https://img.shields.io/twitter/follow/mmateo_upv?logo=twitter&style=for-the-badge" alt="michelmat359" /></a> </p>
+- <p align="left"> <a href="https://twitter.com/michelmat359" target="blank"><img src="https://img.shields.io/twitter/follow/michelmat359?logo=twitter&style=for-the-badge" alt="michelmat359" /></a> </p>
 - [Linkedin](https://www.linkedin.com/in/miguel-angel-mateo-casali-bb335a66)
 
 # Languages and Tools:
