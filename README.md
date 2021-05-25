@@ -1,4 +1,4 @@
-<h1 style="align:center; padding: 5px">Hi 👋, I'm Miguel Angel Mateo</h1>
+<h1 style="align:center; padding: 5px">Hi 👋, I'm Miguel A. Mateo-Casali</h1>
 
 # About me:
 - 🔭 I’m currently working on [Research Centre on Production Management and Engineering](https://cigip.webs.upv.es/)
