@@ -5,10 +5,10 @@
 - 📫 How to reach me **mimaca359@gmail.com**
 
 # Areas of Knowledge
-- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="22" height="22"/> Managing Kubernetes in Production since 2021.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="22" height="22"/> Managing Docker in Production since 2019.
-- <img src="https://i.pinimg.com/originals/db/e4/27/dbe42724d9827b829ac0263e9c4590f4.png" alt="developer" width="22" height="22"/> Web and App Developer since 2019.
-- <img src="https://i1.wp.com/thepracticalsysadmin.com/wp-content/uploads/2020/05/iconfinder_terminal_285695.png?resize=350%2C350&ssl=1" alt="sysadmin" width="22" height="22"/> Sysadmin since 2013.
+- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="22" height="22"/> Managing Kubernetes in Production since 2020.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="22" height="22"/> Managing Docker in Production since 2018.
+- <img src="https://i.pinimg.com/originals/db/e4/27/dbe42724d9827b829ac0263e9c4590f4.png" alt="developer" width="22" height="22"/> Web and App Developer since 2016.
+- <img src="https://i1.wp.com/thepracticalsysadmin.com/wp-content/uploads/2020/05/iconfinder_terminal_285695.png?resize=350%2C350&ssl=1" alt="sysadmin" width="22" height="22"/> Sysadmin since 2012.
 
 # Studies
 - Master’s Degree in Computer Engineering (2019-2021).
