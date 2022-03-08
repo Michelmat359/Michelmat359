@@ -11,6 +11,8 @@
 - <img src="https://i1.wp.com/thepracticalsysadmin.com/wp-content/uploads/2020/05/iconfinder_terminal_285695.png?resize=350%2C350&ssl=1" alt="sysadmin" width="22" height="22"/> Sysadmin since 2012.
 
 # Studies
+- PhD in Industrial Engineering and Production (2021-2024)
+- Master's Degree in Advanced Engineering in Production, Logistics and Supply Chain Management (2021-2022)
 - Master’s Degree in Computer Engineering (2019-2021).
 - Computer Science Engineer (2014-2019).
 - Advanced degree in Computer Systems and Network Administrator (2010-2012).
