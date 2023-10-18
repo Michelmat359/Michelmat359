@@ -5,6 +5,7 @@
 - 📫 How to reach me **mimaca359@gmail.com**
 
 # Areas of Knowledge
+- <img src="https://static.vecteezy.com/system/resources/previews/003/738/370/original/management-project-icon-free-vector.jpg" alt="prjectManager" width="22" height="22"/> Project manager since 2021.
 - <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="22" height="22"/> Managing Kubernetes in Production since 2020.
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="22" height="22"/> Managing Docker in Production since 2018.
 - <img src="https://i.pinimg.com/originals/db/e4/27/dbe42724d9827b829ac0263e9c4590f4.png" alt="developer" width="22" height="22"/> Web and App Developer since 2016.
