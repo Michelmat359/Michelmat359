@@ -1,31 +1,97 @@
-<h1 style="align:center; padding: 5px">Hi 👋, I'm Miguel A. Mateo-Casali</h1>
+<h1 align="center">Miguel A. Mateo-Casali</h1>
+<p align="center">
+  Industrial Engineering researcher, software engineer, and infrastructure practitioner.
+</p>
 
-# About me:
-- 🔭 I’m currently working on [Research Centre on Production Management and Engineering](https://cigip.webs.upv.es/)
-- 📫 How to reach me **mimaca359@gmail.com**
+<p align="center">
+  <a href="https://cigip.webs.upv.es/">Research Centre on Production Management and Engineering</a>
+  ·
+  <a href="mailto:mmateo@cigip.upv.es">mmateo@cigip.upv.es</a>
+  ·
+  <a href="https://www.linkedin.com/in/miguel-a-mateo-casali-bb335a66/">LinkedIn</a>
+  ·
+  <a href="https://twitter.com/mmateo_upv">X/Twitter</a>
+</p>
 
-# Areas of Knowledge
-- <img src="https://static.vecteezy.com/system/resources/previews/003/738/370/original/management-project-icon-free-vector.jpg" alt="prjectManager" width="22" height="22"/> Project manager since 2021.
-- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="22" height="22"/> Managing Kubernetes in Production since 2020.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="22" height="22"/> Managing Docker in Production since 2018.
-- <img src="https://i.pinimg.com/originals/db/e4/27/dbe42724d9827b829ac0263e9c4590f4.png" alt="developer" width="22" height="22"/> Web and App Developer since 2016.
-- <img src="https://i1.wp.com/thepracticalsysadmin.com/wp-content/uploads/2020/05/iconfinder_terminal_285695.png?resize=350%2C350&ssl=1" alt="sysadmin" width="22" height="22"/> Sysadmin since 2012.
+## About Me
 
-# Studies
-- PhD in Industrial Engineering and Production (2022-2025)
-- Master's Degree in Advanced Engineering in Production, Logistics and Supply Chain Management (2021-2022)
-- Master’s Degree in Computer Engineering (2019-2021).
-- Computer Science Engineer (2014-2019).
-- Advanced degree in Computer Systems and Network Administrator (2010-2012).
+I work at the intersection of software engineering, production systems, and infrastructure operations. My background combines academic research in industrial engineering with hands-on experience building, deploying, and operating digital systems.
 
-# Social Networks:
-- <p align="left"> <a href="https://twitter.com/michelmat359" target="blank"><img src="https://img.shields.io/twitter/follow/michelmat359?logo=twitter&style=for-the-badge" alt="michelmat359" /></a> </p>
-- [Linkedin: Miguel Angel](https://www.linkedin.com/in/miguel-a-mateo-casali-bb335a66/) 
+My main areas of focus are:
 
-# Languages and Tools:
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+- Kubernetes and container platforms in production environments
+- DevOps, systems administration, and platform reliability
+- Web and application development
+- Production, logistics, and supply chain engineering
+- Technical leadership and project management
 
----
+## Experience Snapshot
 
-<img align="left" alt="Michelmat359's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Michelmat359&show_icons=true&hide_border=true" />">
+- Project management since 2021
+- Kubernetes in production since 2020
+- Docker in production since 2018
+- Web and app development since 2016
+- Systems administration since 2012
 
+## Education
+
+- PhD in Industrial Engineering and Production, 2022-2026
+- Master's Degree in Advanced Engineering in Production, Logistics and Supply Chain Management, 2021-2022
+- Master's Degree in Computer Engineering, 2019-2021
+- Computer Science Engineering, 2014-2019
+- Advanced Degree in Computer Systems and Network Administration, 2010-2012
+
+## Technologies
+
+**Platform and infrastructure**  
+Kubernetes, Docker, Linux, Nginx, Grafana, Vagrant
+
+**Backend and scripting**  
+Python, Node.js, Java, PHP, Bash
+
+**Frontend and app development**  
+Angular, React, Ionic, Electron, HTML, CSS, Sass, JavaScript, TypeScript
+
+**Data and persistence**  
+PostgreSQL, MariaDB, MySQL, MongoDB, Firebase
+
+## Current Interests
+
+- Applying engineering research to real production environments
+- Designing reliable and maintainable cloud-native systems
+- Bridging operations, software delivery, and industrial processes
+
+## European R&D Projects
+
+I have contributed to several European research and innovation initiatives focused on AI, smart manufacturing, industrial data, and resilient production systems:
+
+- [ZDMP](https://www.zdmp.eu/)  
+  Zero-defect manufacturing platform for data-driven quality optimization, predictive services, and industrial interoperability.
+- [i4Q](https://www.i4q-project.eu/)  
+  Industrial data services for quality control in smart manufacturing.
+- [AIDEAS](https://aideas-project.eu/)  
+  AI-driven industrial equipment lifecycle management to improve agility, sustainability, and resilience across design, manufacturing, use, and end-of-life stages.
+- [DiMAT](https://dimat-project.eu/)  
+  Digital solutions for more resilient, circular, and sustainable manufacturing value chains.
+- [MaaSAI](https://maasai-project.eu/)  
+  AI-enabled manufacturing-as-a-service approaches to improve flexibility, intelligence, and responsiveness across industrial ecosystems.
+
+## Selected Publications
+
+These are the journal articles with the highest-impact venues I could verify from your public research footprint. Where journal impact was close, I prioritized the most cited article I could confirm.
+
+1. [Resilient edge-to-cloud architecture with self-healing and self-correcting mechanisms for industrial data continuity](https://panorama.upv.es/en/ipublic/item/10710596)  
+   Published in *Computers & Industrial Engineering*.
+2. [Digital assets in zero-defect manufacturing: literature review and proposed framework](https://panorama.upv.es/en/ipublic/item/10604140)  
+   Published in *International Journal of Production Research*.
+3. [An industry maturity model for implementing Machine Learning operations in manufacturing](https://polipapers.upv.es/index.php/IJPME/article/view/19138)  
+   Published in *International Journal of Production Management and Engineering*.
+
+## GitHub Stats
+
+<p>
+  <img
+    alt="Michelmat359 GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=Michelmat359&show_icons=true&hide_border=true"
+  />
+</p>
